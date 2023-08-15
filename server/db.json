@@ -1,0 +1,22 @@
+{
+    "careers":[
+        {
+            "id":1,
+            "title":"React Developer",
+            "salary":100000,
+            "location":"banglore india"
+        },
+        {
+            "id":2,
+            "title":"Python Developer",
+            "salary":50000,
+            "location":"chennai india"
+        },
+        {
+            "id":3,
+            "title":"nodeJs Developer",
+            "salary":25000,
+            "location":"tirunelveli india"
+        }
+    ]
+}
